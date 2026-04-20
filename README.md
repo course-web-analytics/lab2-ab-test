@@ -3,7 +3,7 @@
 [![lifecycle](https://img.shields.io/badge/lifecycle-stable-green.svg)](https://www.tidyverse.org/lifecycle/#maturing)
 [![lifecycle](https://img.shields.io/badge/version-2026-red.svg)]()
 
-This lab walks students through ...
+This lab walks students through the fundamentals of A/B testing, from designing a randomized control trial to implementing and analyzing an experiment using real-world data.
 
 ## Meta-Information
 
